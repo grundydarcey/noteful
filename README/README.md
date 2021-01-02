@@ -1,1 +1,7 @@
-# Noteful Client
+Noteful Project
+
+This repository contains a project I completed while learning and mastering React components. I combined this new knowledge with concepts learned earlier in my program like AJAX requests and referencing an API. 
+
+User Functionalities
+
+This app allows the user to interact with a database of folders that contain notes on a certain subject, mostly different types of animals. On loading off the page, there are three main areas to focus on. On top is a header that displays the title "Noteful". Underneath that, the rest of the page is divided into two areas, one displaying existing folders and one displaying notes. These notes are all of the notes that exist within the app, regardless of folder. All of the folders that exist are also displayed here. Users can click on one folder and the right hand side will display the notes that are contained by that selected folder. These notes have a button attached to them that will delete that note from the page and the API as well. Under the display of notes (folder selected or not), the user can see a link to a button to submit a new note to the page. If the user follows this link, they can submit a new note. Once submitted, it will display under the related folder. Under the main page's folder list, there is a button to a link to create a new folder. On this page, the user can submit a new folder that will display on  the main view.
